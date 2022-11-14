@@ -1,4 +1,5 @@
 #include"head.h"
+//hello server
 int main()
 {
 	printf("\nServer\n");
